@@ -36,7 +36,7 @@ When possible, please also link back to my YouTube channel:
 [https://www.youtube.com/@maldfrey](https://www.youtube.com/@maldfrey)
 
 And/or this repository:  
-[https://github.com/maldfrey/AI-Morality-ActFoE](https://github.com/yourusername/AI-Morality-ActFoE)
+[https://github.com/maldfrey/AI-Morality-ActFoE](https://github.com/maldfrey/AI-Morality-ActFoE)
 
 ---
 
