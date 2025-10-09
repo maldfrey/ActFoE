@@ -54,5 +54,5 @@ Maldfrey. "ActFoE: The AI Morality Framework." 2025. GitHub, https://github.com/
   author       = {Maldfrey},
   title        = {ActFoE: The AI Morality Framework},
   year         = {2025},
-  howpublished = {\url{https://github.com/maldfrey/AI-Morality-ActFoE }},
+  howpublished = {\url{https://github.com/maldfrey/AI-Morality-ActFoE },
 }
